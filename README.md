@@ -46,8 +46,10 @@ for word similarity calculations.
 
 
 [1] Elmo Module https://tfhub.dev/google/elmo/2
+
 [2] Universal Sentence Encoder https://tfhub.dev/google/universal-sentence-encoder/4
-[3] Wikipedia2Vec Pre-trained Embedding
-https://wikipedia2vec.github.io/wikipedia2vec/pretrained/
+
+[3] Wikipedia2Vec Pre-trained Embedding https://wikipedia2vec.github.io/wikipedia2vec/pretrained/
+
 [4] Jupyter Notebook https://jupyter.org/
 
